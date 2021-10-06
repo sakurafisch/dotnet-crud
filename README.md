@@ -10,4 +10,8 @@ dotnet run
 ```cmd
 dotnet tool install -g Microsoft.dotnet-httprepl
 httprepl http://localhost:5000
+ls
+cd WeatherForecast
+get
+exit
 ```
